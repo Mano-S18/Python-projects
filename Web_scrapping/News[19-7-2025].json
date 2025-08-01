@@ -1,0 +1,122 @@
+[
+    {
+        "Title": "Valve confirms credit card companies pressured it to delist certain adult games",
+        "link": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+        "Points": 497
+    },
+    {
+        "Title": "Fully homomorphic encryption and the dawn of a private internet",
+        "link": "https://bozmen.io/fhe",
+        "Points": 420
+    },
+    {
+        "Title": "lsr: ls with io_uring",
+        "link": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
+        "Points": 325
+    },
+    {
+        "Title": "AI capex is so big that it's affecting economic statistics",
+        "link": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
+        "Points": 305
+    },
+    {
+        "Title": "My Self-Hosting Setup",
+        "link": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+        "Points": 264
+    },
+    {
+        "Title": "Psilocybin decreases depression and anxiety in cancer patients (2016)",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/",
+        "Points": 262
+    },
+    {
+        "Title": "Cancer DNA is detectable in blood years before diagnosis",
+        "link": "https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening",
+        "Points": 254
+    },
+    {
+        "Title": "CP/M creator Gary Kildall's memoirs released as free download",
+        "link": "https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download",
+        "Points": 244
+    },
+    {
+        "Title": "How I keep up with AI progress",
+        "link": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+        "Points": 235
+    },
+    {
+        "Title": "Asynchrony is not concurrency",
+        "link": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+        "Points": 233
+    },
+    {
+        "Title": "Meta says it won’t sign Europe AI agreement, calling it an overreach",
+        "link": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+        "Points": 217
+    },
+    {
+        "Title": "EPA says it will eliminate its scientific research arm",
+        "link": "https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html",
+        "Points": 190
+    },
+    {
+        "Title": "LibreOffice slams Microsoft for locking in Office users w/ complex file formats",
+        "link": "https://www.neowin.net/news/libreoffice-calls-out-microsoft-for-using-complex-file-formats-to-lock-in-office-users/",
+        "Points": 187
+    },
+    {
+        "Title": "How to write Rust in the Linux kernel: part 3",
+        "link": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+        "Points": 182
+    },
+    {
+        "Title": "Trying Guix: A Nixer's impressions",
+        "link": "https://tazj.in/blog/trying-guix",
+        "Points": 181
+    },
+    {
+        "Title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+        "link": "item?id=44605213",
+        "Points": 149
+    },
+    {
+        "Title": "Broadcom to discontinue free Bitnami Helm charts",
+        "link": "https://github.com/bitnami/charts/issues/35164",
+        "Points": 147
+    },
+    {
+        "Title": "Silence Is a Commons by Ivan Illich (1983)",
+        "link": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+        "Points": 143
+    },
+    {
+        "Title": "Wii U SDBoot1 Exploit “paid the beak”",
+        "link": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
+        "Points": 139
+    },
+    {
+        "Title": "When root meets immutable: OpenBSD chflags vs. log tampering",
+        "link": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
+        "Points": 133
+    },
+    {
+        "Title": "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
+        "link": "https://twitter.com/_ZachGriff/status/1945959030851035223",
+        "Points": 124
+    },
+    {
+        "Title": "A New Geometry for Einstein's Theory of Relativity",
+        "link": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
+        "Points": 112
+    },
+    {
+        "Title": "The year of peak might and magic",
+        "link": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
+        "Points": 102
+    },
+    {
+        "Title": "Inspect ANSI control codes and escape sequences",
+        "link": "https://ansi.tools",
+        "Points": 102
+    }
+]
