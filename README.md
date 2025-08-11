@@ -97,5 +97,6 @@ A security tool that:
 ---
 
 🤝 Contributions
+
 Contributions, issues, and feature requests are welcome!
 Feel free to fork and improve any of the tools.
